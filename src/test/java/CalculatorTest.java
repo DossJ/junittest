@@ -27,4 +27,4 @@ class CalculatorTest {
         assertEquals(2,Calculator.divide(6,2));
 
     }
-}fff
+}
